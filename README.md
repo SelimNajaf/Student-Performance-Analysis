@@ -125,17 +125,6 @@ The analysis was performed on a raw CSV file, `bi.csv`. The data underwent a rig
 -   **NumPy:** For numerical operations and handling `NaN` values.
 -   **Matplotlib:** For data visualization.
 
-### Setup & Installation
-To replicate this analysis, clone the repository and install the required libraries:
-```bash
-# Clone the repository
-git clone <repository_url>
-cd <repository_name>
-
-# Install required packages
-pip install pandas numpy matplotlib
-```
-
 ## 📬 Contact
 **Selim Najaf**
 
